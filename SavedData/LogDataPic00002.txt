@@ -1,0 +1,10 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/00002/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/00002/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/00002/word_cloud.png	0,38,322.2319736842105	1,0,0	0,1,0	0,0,1	0	5	0.2	4	Wooden_thin2	-1:-1	23
+2	./Images/00002/Emil Fieldorf Nil MBP 1950.jpg	-48.75,38,163.36842105263156	0,0,1	0,1,0	-1,0,0	-93.91228070175438	0	0.2	3	Wooden_thin	-1:-1	3
+3	./Images/00002/caption/caption0.png	-48.75,38,163.36842105263156	0,0,1	0,1,0	-1,0,0	-71.91228070175438	-10	0.3	0.7	none(caption)	-1:-1	4
+4	./Images/00002/August Emil Fieldorf Nil monument.JPG	-48.75,38,163.36842105263156	0,0,1	0,1,0	-1,0,0	5.0	0	0.2	3	Wooden_thin	-1:-1	5
+5	./Images/00002/caption/caption1.png	-48.75,38,163.36842105263156	0,0,1	0,1,0	-1,0,0	27.0	-10	0.3	0.7	none(caption)	-1:-1	6
+6	./Images/00002/August fieldorf pomnik park jordana krakow.jpg	-48.75,38,163.36842105263156	0,0,1	0,1,0	-1,0,0	103.91228070175436	0	0.2	3	Wooden_thin	-1:-1	7
+7	./Images/00002/caption/caption2.png	-48.75,38,163.36842105263156	0,0,1	0,1,0	-1,0,0	125.91228070175436	-10	0.3	0.7	none(caption)	-1:-1	8

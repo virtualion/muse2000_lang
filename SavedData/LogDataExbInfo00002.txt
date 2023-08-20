@@ -1,0 +1,4 @@
+#title=August Emil Fieldorf
+#scale=2.5,3.5,8.168421052631578
+#color1=188,76,68
+#color2=177,122,89

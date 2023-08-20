@@ -1,0 +1,14 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/00003/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/00003/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/00003/word_cloud.png	0,38,696.1393421052634	1,0,0	0,1,0	0,0,1	0	5	2	4	Wooden_thin2	-1:-1	23
+2	./Images/00003/Jimcrow.jpg	-48.75,38,352.2105263157896	0,0,1	0,1,0	-1,0,0	-163.6052631578948	0	0.2	3	Wooden_thin	-1:-1	3
+3	./Images/00003/caption/caption0.png	-48.75,38,352.2105263157896	0,0,1	0,1,0	-1,0,0	-141.6052631578948	-10	0.3	0.7	none(caption)	-1:-1	4
+4	./Images/00003/FreedmenVotingInNewOrleans1867.jpeg	-48.75,38,352.2105263157896	0,0,1	0,1,0	-1,0,0	173.6052631578948	0	0.2	3	Wooden_thin	-1:-1	5
+5	./Images/00003/caption/caption1.png	-48.75,38,352.2105263157896	0,0,1	0,1,0	-1,0,0	195.6052631578948	-10	0.3	0.7	none(caption)	-1:-1	6
+6	./Images/00003/JimCrowInDurhamNC.jpg	48.75,38,352.2105263157896	0,0,-1	0,1,0	1,0,0	234.80701754385973	0	0.2	3	Wooden_thin	-1:-1	7
+7	./Images/00003/caption/caption2.png	48.75,38,352.2105263157896	0,0,-1	0,1,0	1,0,0	256.80701754385973	-10	0.3	0.7	none(caption)	-1:-1	8
+8	./Images/00003/JimCrowCar2.jpg	48.75,38,352.2105263157896	0,0,-1	0,1,0	1,0,0	0.0	0	0.2	3	Wooden_thin	-1:-1	9
+9	./Images/00003/caption/caption3.png	48.75,38,352.2105263157896	0,0,-1	0,1,0	1,0,0	22.0	-10	0.3	0.7	none(caption)	-1:-1	10
+10	./Images/00003/Warren Supreme Court.jpg	48.75,38,352.2105263157896	0,0,-1	0,1,0	1,0,0	-234.80701754385973	0	0.2	3	Wooden_thin	-1:-1	11
+11	./Images/00003/caption/caption4.png	48.75,38,352.2105263157896	0,0,-1	0,1,0	1,0,0	-212.80701754385973	-10	0.3	0.7	none(caption)	-1:-1	12

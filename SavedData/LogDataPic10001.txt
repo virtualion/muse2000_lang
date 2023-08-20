@@ -1,0 +1,14 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/10001/title_panel.png	-135.21052631578948,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/10001/word_cloud.png	-156.20526315789473,38,164.44421052631577	0,0,1	0,1,0	-1,0,0	115.11094736842104	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/10001/Katsuren Castle ruins.jpg	-156.20526315789473,38,162.79976842105262	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+1	./Images/10001/caption/caption0.png	-156.20526315789473,38,162.79976842105262	0,0,1	0,1,0	-1,0,0	35	-2	1	0.8	Wooden_thin2	-1:-1	23
+3	./Images/10001/Enkaku-ji(Shuri)200703.jpg	0,38,328.05789473684206	1,0,0	0,1,0	0,0,1	-107.96421052631578	-10	0.2	4.5	Wooden_thin	-1:-1	3
+4	./Images/10001/caption/caption1.png	0,38,328.05789473684206	1,0,0	0,1,0	0,0,1	-85.96421052631578	-20	1.5	0.7	none(caption)	-1:-1	4
+5	./Images/10001/Okinawa 01.jpg	0,38,328.05789473684206	1,0,0	0,1,0	0,0,1	-51.482105263157905	-10	0.2	4.5	Wooden_thin	-1:-1	5
+6	./Images/10001/caption/caption2.png	0,38,328.05789473684206	1,0,0	0,1,0	0,0,1	-29.482105263157905	-20	1.5	0.7	none(caption)	-1:-1	6
+7	./Images/10001/Passports for passengers between Mainland Japan and Okinawa during 1952-1972.jpg	0,38,328.05789473684206	1,0,0	0,1,0	0,0,1	4.999999999999972	-10	0.2	4.5	Wooden_thin	-1:-1	7
+8	./Images/10001/caption/caption3.png	0,38,328.05789473684206	1,0,0	0,1,0	0,0,1	26.99999999999997	-20	1.5	0.7	none(caption)	-1:-1	8
+9	./Images/10001/Futenma airport runway.JPG	0,38,328.05789473684206	1,0,0	0,1,0	0,0,1	61.48210526315788	-10	0.2	4.5	Wooden_thin	-1:-1	9
+10	./Images/10001/caption/caption4.png	0,38,328.05789473684206	1,0,0	0,1,0	0,0,1	83.48210526315788	-20	1.5	0.7	none(caption)	-1:-1	10
+11	Images/10001/table/fixed_位置範圍.png	156.20526315789473,38,166.1052631578947	0,0,-1	0,1,0	1,0,0	0.0	-10	0.2	9.450000000000001	Wooden_thin	-1:-1	11

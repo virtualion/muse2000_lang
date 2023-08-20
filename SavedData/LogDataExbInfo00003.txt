@@ -1,0 +1,4 @@
+#title=Jim Crow laws
+#scale=2.5,3.5,17.61052631578948
+#color1=110,95,81
+#color2=153,146,144

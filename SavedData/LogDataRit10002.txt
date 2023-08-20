@@ -1,0 +1,4 @@
+id	data	x	y	z	theta	size	parent	uniqueCode
+1	Images/10002/sec0/sec0_01.jpg,Wooden_thin2	4	7.699999999999999	7.8000000000000025	0,11.09834,0	1.4	2	12
+2	Images/10002/sec1/sec1_01.jpg,Wooden_thin2	4	7.699999999999999	-7.799999999999997	0,11.09834,0	1.4	2	13
+3	Images/10002/sec2/sec2_01.jpg,Wooden_thin2	4	7.699999999999999	0.0	0,11.09834,0	1.4	3	14

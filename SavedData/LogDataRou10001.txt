@@ -1,0 +1,2 @@
+id	next	previous	captioning	pos	angle	audio	launchAngle
+1	-1	-1		-1.588274,7.819996,1.646854	0.03180557,0,0.9994941		6.037463

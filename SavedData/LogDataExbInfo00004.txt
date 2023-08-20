@@ -1,0 +1,4 @@
+#title=Vaccinium vitis-idaea
+#scale=6.368421052631579,3.5,5.842105263157894
+#color1=221,207,206
+#color2=106,97,92
