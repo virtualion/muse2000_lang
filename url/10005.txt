@@ -1,0 +1,2 @@
+#root=https://virtualion.github.io/muse2000_lang/
+#prj=10005
